@@ -1,0 +1,10 @@
+body{
+    background-image: url(../image/4-min-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+footer{
+    height: 200px;
+}
